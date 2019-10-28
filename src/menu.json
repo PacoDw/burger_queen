@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Café Americano",
+    "description": "Rico café americano traido desde Colomnbia",
+    "count": 0,
+    "price": 5,
+    "subtotal":0,
+    "foodType":"breackfast",
+    "src":"cafeA.jpg"
+  },
+  {
+    "name": "Café con Leche",
+    "description": "Rico cafe con leche estilo Veracruzano",
+    "count": 0,
+    "price": 7,
+    "subtotal":0,
+    "foodType":"breackfast",
+    "src":"cafeL.jpg"
+
+  },
+  {
+    "name": "Sandwich de jamón con queso",
+    "description": "Un simple sanwich con queso, si con orillas",
+    "count": 0,
+    "price": 10,
+    "subtotal":0,
+    "foodType":"breackfast",
+    "src":"sandwich.jpg"
+
+  },
+  {
+    "name": "Jugo Natural",
+    "description": "Cualquier jugo que se pueda hacer",
+    "count": 0,
+    "price": 7,
+    "subtotal":0,
+    "foodType":"breackfast",
+    "src":"jugo.jpg"
+
+  },
+  {
+    "name": "Hamburguesa simple",
+    "description": "Lleva carne, lechuga, cebolla, etc",
+    "count": 0,
+    "price": 10,
+    "subtotal":0,
+    "foodType":"lunch",
+    "src":"hsimple.jpeg"
+
+  },
+  {
+    "name": "Hamburguesa doble",
+    "description": "Contiene doble casi de todo menos de pan",
+    "count": 0,
+    "price": 15,
+    "subtotal":0,
+    "foodType":"lunch",
+    "src":"hdoble.jpg"
+
+  },
+  {
+    "name": "Papas fritas",
+    "description": "Las papas fritas puedes ser jago o normales",
+    "count": 0,
+    "price": 5,
+    "subtotal":0,
+    "foodType":"lunch",
+    "src":"papas.jpg"
+
+  },
+  {
+    "name": "Onion Rings",
+    "description": "Aros de cebolla fritos",
+    "count": 0,
+    "price": 5,
+    "subtotal":0,
+    "foodType":"lunch",
+    "src":"aros.jpg"
+
+  },
+  {
+    "name": "Agua 500ml",
+    "description": "Aros de cebolla fritos",
+    "count": 0,
+    "price": 5,
+    "subtotal":0,
+    "foodType":"lunch",
+    "src":"aguaCh.jpg"
+
+  },
+  {
+    "name": "Agua 750ml",
+    "description": "Aros de cebolla fritos",
+    "count": 0,
+    "price": 8,
+    "subtotal":0,
+    "foodType":"lunch",
+    "src":"aguaG.jpg"
+
+  },
+  {
+    "name": "Gaseosa 500ml",
+    "description": "Aros de cebolla fritos",
+    "count": 0,
+    "price": 7,
+    "subtotal":0,
+    "foodType":"lunch",
+    "src":"gaseosaCh.jpg"
+
+  },
+  {
+    "name": "Gaseosa 750ml",
+    "description": "Aros de cebolla fritos",
+    "count": 0,
+    "price": 10,
+    "subtotal":0,
+    "foodType":"lunch",
+    "src":"gaseosaG.jpg"
+
+  }
+]
